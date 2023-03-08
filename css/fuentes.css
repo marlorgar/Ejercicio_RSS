@@ -1,0 +1,21 @@
+#cabecera {
+    font-family: helvetica;
+    font-style: oblique;
+    font-size: x-large;
+    text-align: center;
+}
+
+#indice {
+    text-transform: lowercase;
+    font-family: arial;
+    font-size: large
+}
+
+#contenido {
+    font-family: Helvetica;
+}
+
+#piedepagina {
+    font-weight: bold;
+    text-align: center
+}
